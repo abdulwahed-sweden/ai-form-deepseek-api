@@ -139,9 +139,9 @@ Contributions are welcome! Please follow these steps:
 ## Contact
 
 For inquiries or feedback, please contact:
-- Name: Your Name
-- Email: your.email@example.com
-- GitHub: your-username
+- Name: Abdulwahed Mansour
+- Email: abdulwahed.sweden@gmail.com
+- GitHub: abdulwahed-sweden
 
 ---
 ```
